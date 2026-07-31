@@ -9,7 +9,8 @@ Hey, I'm a low-level developer focused on x86 system architecture, C, and Assemb
     <img src="https://github-readme-stats.shion.dev/api/pin/?username=yunusemreduran388-ux&repo=NyanOS-v1&theme=dark" draggable="false">
   </a>
 </p>
-
+<p>NyanOS website: https://yunusemreduran388-ux.github.io/NyanOS-v1/</p>
+<p>personal website: https://yunusemreduran388-ux.github.io/ </p>
 
 # 💻 Tech Stack:
 <a href="#shields"><img src="https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white" draggable="false"></a>
