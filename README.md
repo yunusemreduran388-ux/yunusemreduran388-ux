@@ -6,7 +6,7 @@ Hey, I'm a low-level developer focused on x86 system architecture, C, and Assemb
 
 <p align="center">
   <a href="https://github.com/yunusemreduran388-ux/NyanOS-v1">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=yunusemreduran388-ux&repo=NyanOS-v1&theme=light" draggable="false">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=yunusemreduran388-ux&repo=NyanOS-v1&theme=dark" draggable="false">
   </a>
 </p>
 
