@@ -2,7 +2,7 @@
 <p align="center">
   <img src="NVDAFUCKYgif-converter.gif" width="100%">
 </p>
-# About Me
+
 Hey, I'm a low-level developer focused on x86 system architecture, C, and Assembly. I build bare-metal hobby operating systems from scratch, talking directly to hardware registers and dealing with interrupt handling. No AI slop, no vibe-coding—just pure, manual debugging and a passion for operating system development.
 
 # 💻 Tech Stack:
