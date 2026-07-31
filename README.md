@@ -3,6 +3,10 @@
 </p>
 
 Hey, I'm a low-level developer focused on x86 system architecture, C, and Assembly. I build bare-metal hobby operating systems from scratch, talking directly to hardware registers and dealing with interrupt handling. No AI slop, no vibe-coding—just pure, manual debugging and a passion for operating system development.
+ 📌 Featured Project: NyanOS
+<a href="https://github.com/yunusemreduran388-ux/NyanOS">
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=yunusemreduran388-ux&repo=NyanOS&theme=dark" draggable="false">
+</a>
 
 # 💻 Tech Stack:
 <a href="#shields"><img src="https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white" draggable="false"></a>
