@@ -1,5 +1,4 @@
-# 💫 About Me:
-bare metal c <br>asm<br>osdev<br>software engineer<br>risc-v<br>x86<br>rust <br>
+
 
 
 # 💻 Tech Stack:
