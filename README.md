@@ -10,7 +10,6 @@ Hey, I'm a low-level developer focused on x86 system architecture, C, and Assemb
   </a>
 </p>
 
-# 💻 Tech Stack:
 
 # 💻 Tech Stack:
 <a href="#shields"><img src="https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white" draggable="false"></a>
